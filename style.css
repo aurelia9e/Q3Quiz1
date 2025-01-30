@@ -1,0 +1,57 @@
+body {
+	background-color: #1b263b;
+	color: e0e1dd;
+	font-family: monospace;
+}
+
+h1 {
+	color: #eae2b7;
+	background-color: #bb9457;
+	text-align: center;
+}
+
+.btn-1{
+	font-family: monospace;
+	background-color: #fcbf49;
+	color: #d62828;
+}
+.btn-2 {
+	font-family: monospace;
+	background-color: #81b29a;
+	color: #fff3b0;
+}
+
+.btn-3 {
+	font-family: monospace;
+	background-color: #FF101F;
+	color:#CABAC8;
+}
+
+p {
+	color: #023047;
+}
+
+h2 {
+	color:#003049;
+	text-align: center;
+}
+
+h3 {
+	color: #003049;
+	text-align: center
+}
+
+mark {
+	background-color: white;
+}
+
+script {
+	text-align: center;
+}
+
+.container-fluid {
+	background-color: #8ecae6;
+	color: #003049;
+	margin: 10px;
+}
+
